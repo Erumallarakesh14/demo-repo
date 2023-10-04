@@ -1,5 +1,5 @@
 #demo 
-show description!.
+show description.
 ##sub header
 
 watch tutorial
